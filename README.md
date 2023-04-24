@@ -1,4 +1,3 @@
-# virus
 # https://luistoro-v.github.io/LuisToro-v-VirusOnline/
 Basic demonstration on how virus spread through direct contact.
 There two mode: 
